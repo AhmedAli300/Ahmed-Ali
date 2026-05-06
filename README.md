@@ -6,7 +6,7 @@ I’m highly dedicated, always eager to learn, and committed to writing clean, s
 ---
 
 ### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ahmed-ali-242918223/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ali-242918223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedalbaseony14@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201140201627)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
