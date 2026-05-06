@@ -10,7 +10,7 @@ I’m highly dedicated, always eager to learn, and committed to writing clean, s
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedalbaseony14@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201140201627)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://abdelrahman-portfolio-beta.vercel.app/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://abdelrahman-portfolio-beta.vercel.app/) -->
 
 ---
 
