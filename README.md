@@ -38,7 +38,7 @@ I’m highly dedicated, always eager to learn, and committed to writing clean, s
 ---
 
 
-### ⚡ GitHub Stats
+<!-- ### ⚡ GitHub Stats -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMohamed-sa3oor&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMohamed-sa3oor&layout=compact&count_private=true&theme=gruvbox" />
 
